@@ -22,3 +22,6 @@ NFT Passport will be a marketplace platform where NFTs are minted and ready to b
 ### Power Point Presentation Link: https://docs.google.com/presentation/d/1vz6JS6mQoavHpg3KvZlH8FdwJo0SLlpgv6upEmc1K9M/edit?usp=sharing
 
 ### Video Demo Link: https://youtu.be/Oea2lH-szsY
+
+
+![Digita Passport Data Flow](“3DTest.png”)
