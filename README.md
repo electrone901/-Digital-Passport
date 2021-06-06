@@ -1,70 +1,22 @@
-# Getting Started with Create React App
+# Digital Passport
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+### TLDR of the Proposal:
 
-### `yarn start`
+Wouldn't it be cool and convenient to have all the places that you have visited in your hands? With NFT Passport you can collect and display unique local NFTs from the comfort of your hands.
+Every time that you visit a country, a city, or a place you can buy, collect or get for free NFTs. Especially when you participate in activities within local communities that support its local economy, such as visiting local places, museums, monuments, eating at local restaurants, or buying goods from local makers.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Every community will decide what is important to them and how to reward their visitors. They can choose to provide free or very low price NFTs as a way of souvenirs giving travelers the opportunity to collect and display unique local NFTs.
+This will stimulate traveling, the global economy and it will give travelers the opportunity to have all their trips in one digital app. Where they can look back and trace their travels by looking at their NFTs on a global map. Every NFT will display helpful information about the place and about the NFT itself such as the date and time.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+NFT Passport will work in association with local governments, communities, and creators to establish where NFTs can be collected by travelers and what their unique design will be.
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+NFT Passport will be a marketplace platform where NFTs are minted and ready to be collected by travelers. To obtain an NFT, travelers will scan a QR code using their phone, then they will be redirected to our platform where they can purchase the NFT from the community.
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+  All proceeds go directly back to the municipality to fund identified local initiatives. The traveller has just collected an NFT that is displayed on their personal Digital Passport in Souvenir, a dedicated platform where travelers can open their NFT collection as a travel book and fill it by collecting more NFTs!
 
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
